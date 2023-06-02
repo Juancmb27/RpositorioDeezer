@@ -1,0 +1,270 @@
+body {
+    background-color: black;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ofertaTigo {
+    font-family:"Roboto", sans-serif;
+    font-size: 13px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-color: white;
+    border-style:solid;
+    border-radius: 10px;
+    border-width: 1px;
+    margin: 20px 50px;
+    padding: 20px 30px;
+}
+
+.logoDeezer {
+    width: 150px;
+    height: 60px;
+    
+}
+
+.logoTigo {
+    width: 20px;
+    height: 20px;
+}
+
+.botonIniciarSesion{
+    font-family:"Roboto", sans-serif;
+    font-size: 13px;
+    color: white;
+    width: 180px;
+    height: 40px;
+    border-color: white;
+    border-style:solid;
+    border-radius: 80px;
+    border-width: 1px;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   margin: 0 50px;
+}
+
+.plan{
+    font-family:"Roboto", sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.nodisponible{
+    background: #191922;
+    font-family:"Roboto", sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    border-style: solid #191922;
+    border-width: 1px;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding:  10px 10px 10px 10px;
+}
+.cuadradodeezer{
+    font-family:"Roboto", sans-serif;
+    color: white;
+    background: skyblue;
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+    flex-direction: column;
+    margin: 30px;
+    padding: 10px 50px 10px 50px;
+    
+    
+  
+} 
+.cilindro1{
+    background: black;
+    font-family:"Roboto", sans-serif;
+    font-size: 13px;
+    color: white;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    margin: 0px 0px 0px 50px;
+
+}
+.oferta{
+    font-family:"Roboto", sans-serif;
+    color: white;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 10px 0px;
+
+    
+}
+.descuentoa{
+    font-family:"Roboto", sans-serif;
+    font-size: 13px;
+    color: white;
+    width: 700px;
+    height: 30px;
+    border-color: white;
+    border-style:solid;
+    border-radius: 80px;
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 0px 20px 0px;
+}
+.descuentoe{
+    font-family:"Roboto", sans-serif;
+    font-size: 13px;
+    color: white;
+    width: 700px;
+    height: 30px;
+    border-color: white;
+    border-style:solid;
+    border-radius: 80px;
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cuadradorange{
+    font-family:"Roboto", sans-serif;
+    color: white;
+    background: #ff8000;
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+    flex-direction: column;
+    margin: 30px;
+    padding: 10px 50px 10px 50px;
+}
+.cilindro2{
+    background: black;
+    font-family:"Roboto", sans-serif;
+    font-size: 13px;
+    color: white;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    margin: 0px 0px 0px 50px;
+}
+.oferta2{
+    font-family:"Roboto", sans-serif;
+    color: white;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 50px 0px;
+    margin: 0px 0px 0px 0px;
+}
+.ofertadso{
+    font-family:"Roboto", sans-serif;
+    color: white;
+    font-size: 13px;
+    background: #23232d;
+    border-radius: 40px;
+    width: 500px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    padding: 10px 50px 10px 50px;
+}
+.logoTigo1{
+    width: 20px;
+    height: 20px;
+}
+.cilindro3{
+    background: black;
+    font-family:"Roboto", sans-serif;
+    font-size: 13px;
+    color: white;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    margin: 0px 0px 0px 50px;
+}
+.tarjeta{
+    font-family:"Roboto", sans-serif;
+    color: white;
+    background: #23232d;
+    border-radius: 40px;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    padding: 0px 50px 10px 50px;
+}
+.cilindro4{
+    background: black;
+    font-family:"Roboto", sans-serif;
+    font-size: 13px;
+    color: white;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    margin: 0px 0px 0px 50px;
+}
+.texto{
+    font-family:"Roboto", sans-serif;
+    font-size: 13px;
+    color: #60606c;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+}
+.Footer1{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    
+}
+.appstore{
+    width: 130px;
+    height: 50px;
+    display: flex;
+    margin: 0px 10px;
+    
+     
+}
+.playstore{
+    width: 180px;
+    height: 50px;
+}
+
+.footer2{
+display: flex;
+justify-content: space-around;
+}
+
+.jymmy {
+    color: beige;
+    font-family: "Roboto", sans-serif;
+
+}
